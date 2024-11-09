@@ -1,0 +1,17 @@
+bbc.co.uk
+bbc.com
+express.co.uk
+independent.co.uk
+independent.com
+independent.ie
+mirror.co.uk
+telegraph.co.uk
+thesun.co.uk
+dailymail.co.uk
+metro.co.uk
+pressandjournal.co.uk
+thetimes.co.uk
+thescottishsun.co.uk
+ibtimes.co.in
+ibtimes.co.uk
+ibtimes.com
