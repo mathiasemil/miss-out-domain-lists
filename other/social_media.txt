@@ -5,6 +5,7 @@ instagram.com
 tiktok.com
 wechat.com
 twitter.com
+x.com
 telegram.org
 snapchat.com
 reddit.com
@@ -16,3 +17,4 @@ discord.com
 clubhouse.com
 bsky.app
 threads.net
+mastodon.social
